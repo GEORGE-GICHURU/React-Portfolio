@@ -2,10 +2,11 @@ import React from 'react'
 import './testimonials.css'
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
-import 'swiper/css';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
-import 'swiper/css/scrollbar';
+import 'swiper/swiper-bundle.min.css'
+import 'swiper/swiper.min.css';
+// import 'swiper/css/navigation';
+// import  'swiper/css/pagination';
+// import 'swiper/css/scrollbar';
 import { Title } from 'components';
 
 const Testimonials = () => {

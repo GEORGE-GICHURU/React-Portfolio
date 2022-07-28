@@ -1,5 +1,5 @@
 import React from 'react'
-import {Header, Navbar, About, Experience, Services, Works, Testimonials, Contact, Footer} from 'components'
+import {Header, Navbar, About, Experience, Services, Works, Testimonials, Contact, Footer} from './components'
 
 const App = () => (
     <>
