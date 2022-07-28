@@ -12,7 +12,7 @@ const About = () => {
             <Title text="Get To Know" title="About Me" />
             <div className="about-content">
                 <div className='about-image'>
-                    <img src={require("../../assets/me.png")} alt="George Gichuru" />
+                    <img src={require("../../assets/letter-g-blue-fire-flames-black-isolated-background-realistic-fire-effect-sparks-part-alphabet-set-letter-g-blue-fire-157763002.jpg")} alt="George Gichuru" />
                 </div>
                 <div className='about-container'>
                     <div className='content-container'>

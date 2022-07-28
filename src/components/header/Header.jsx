@@ -4,7 +4,7 @@ import { BsLinkedin, BsGithub, BsFileText } from 'react-icons/bs'
 import { HiChevronDoubleDown } from 'react-icons/hi'
 import { Button } from 'components'
 import {ButtonOutline} from 'components/shared/Button'
-// import ME from 'assets/me.png'
+// import ME from 'assets/letter-g-blue-fire-flames-black-isolated-background-realistic-fire-effect-sparks-part-alphabet-set-letter-g-blue-fire-157763002.jpg'
 
 const Header = () => {
     return (
