@@ -15,7 +15,7 @@ const Works = () => {
 
         {
             id: 2,
-            title: 'Awwward',
+            title: 'Awwwards',
             github: 'https://github.com/GEORGE-GICHURU?tab=repositories',
             img: 'https://images.pexels.com/photos/2098578/pexels-photo-2098578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
             live: 'https://awwwardsapp.herokuapp.com/'
