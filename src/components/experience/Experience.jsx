@@ -91,6 +91,24 @@ const Experience = () => {
                     id: 5,
                     title: 'WordPress',
                     level: 'Beginner',
+                },
+
+                {
+                    id: 6,
+                    title: 'Python',
+                    level: 'Advanced',
+                },
+
+                {
+                    id: 7,
+                    title: 'Django',
+                    level: 'Advanced',
+                },
+
+                {
+                    id: 8,
+                    title: 'Flask',
+                    level: 'Advanced',
                 }
             ]
         }
