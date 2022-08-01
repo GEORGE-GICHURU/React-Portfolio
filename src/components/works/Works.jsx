@@ -35,7 +35,7 @@ const Works = () => {
             id: 4,
             title: 'Fichua Store',
             github: 'https://github.com/GEORGE-GICHURU?tab=repositories',
-            img: 'https://images.pexels.com/photos/6214471/pexels-photo-6214471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+            img: 'https://images.pexels.com/photos/6214476/pexels-photo-6214476.jpeg?auto=compress&cs=tinysrgb&w=600',
             live: 'http://fichua.vercel.app/'
         },
 
@@ -53,7 +53,7 @@ const Works = () => {
             id: 6,
             title: 'Instagram Clone',
             github: 'https://github.com/GEORGE-GICHURU?tab=repositories',
-            img: 'https://images.pexels.com/photos/5052877/pexels-photo-5052877.jpeg?cs=srgb&dl=pexels-cottonbro-5052877.jpg&fm=jpg',
+            img: 'https://images.pexels.com/photos/276923/pexels-photo-276923.jpeg?auto=compress&cs=tinysrgb&w=600',
             live: 'https://gichurugram2.herokuapp.com/'
         }
 
