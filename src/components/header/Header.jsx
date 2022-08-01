@@ -2,9 +2,9 @@ import React from 'react'
 import './header.css'
 import { BsLinkedin, BsGithub, BsFileText } from 'react-icons/bs'
 import { HiChevronDoubleDown } from 'react-icons/hi'
-import { Button } from 'components'
-import {ButtonOutline} from 'components/shared/Button'
-// import ME from 'assets/letter-g-blue-fire-flames-black-isolated-background-realistic-fire-effect-sparks-part-alphabet-set-letter-g-blue-fire-157763002.jpg'
+// import { Button } from './components'
+import Button from '../shared/Button'
+import { ButtonOutline } from '../shared/Button'
 
 const Header = () => {
     return (
@@ -37,7 +37,7 @@ const Header = () => {
                 </div>
 
                 <div className='image-area'>
-                    <img src="{ME}" alt="George Gichuru" />
+                    <img src="#!" alt="George Gichuru" />
                 </div>
                 <a href="#!" className='scroll-down'>
                     <span>Scroll Down</span>

@@ -1,5 +1,7 @@
-import {Button, Title} from 'components'
 import React from 'react'
+// import {Button, Title} from './components'
+import Button from '../shared/Button'
+import Title from '../shared/Title'
 import './contact.css'
 import {AiOutlineMail, AiOutlineWhatsApp} from 'react-icons/ai'
 import {RiMessengerLine} from 'react-icons/ri'

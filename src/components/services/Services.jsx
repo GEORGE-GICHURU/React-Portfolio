@@ -1,7 +1,8 @@
 import React from 'react'
 import './services.css'
 import { AiOutlineCheck } from 'react-icons/ai'
-import { Title } from 'components'
+// import { Title } from './components'
+import Title from '../shared/Title'
 
 const Services = () => {
     const services = [

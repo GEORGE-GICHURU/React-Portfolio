@@ -1,5 +1,7 @@
-import { Title } from 'components'
 import React from 'react'
+// import { Title } from './components'
+import Title from '../shared/Title'
+
 import './works.css'
 
 const Works = () => {

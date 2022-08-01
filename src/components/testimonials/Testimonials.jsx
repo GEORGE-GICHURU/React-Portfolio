@@ -7,7 +7,8 @@ import 'swiper/swiper.min.css';
 // import 'swiper/css/navigation';
 // import  'swiper/css/pagination';
 // import 'swiper/css/scrollbar';
-import { Title } from 'components';
+// import { Title } from './components';
+import Title from '../shared/Title';
 
 const Testimonials = () => {
     const testimonials = [

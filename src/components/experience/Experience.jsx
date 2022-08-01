@@ -1,5 +1,9 @@
-import {Feature, Title} from 'components'
 import React from 'react'
+// import {Feature, Title} from './components'
+
+import Feature from '../shared/Feature'
+import Title from '../shared/Title'
+
 import './experience.css'
 
 const Experience = () => {
