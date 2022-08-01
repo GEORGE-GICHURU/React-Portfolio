@@ -45,11 +45,11 @@ const About = () => {
                     </div>
 
                     <p className='text'>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum dignissimos reiciendis similique inventore, eaque at praesentium molestias nihil modi, quam delectus corrupti laudantium. Reprehenderit fugiat ex maiores, nulla natus cumque voluptates non sit impedit minima quasi, architecto iure amet quas expedita.
+                    Talented web development experienced with wide range of programming languages and design tools.Skilled at producing clean, secure codes based on individual client's need.
                     </p>
 
                     <p className='text'>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum dignissimos reiciendis similique inventore, eaque at praesentium molestias nihil modi, quam delectus corrupti laudantium. 
+                    Focused on delighting customers with innovative user-friendly designs
                     </p>
 
                     <Button text="Let's Talk" position="left" />
