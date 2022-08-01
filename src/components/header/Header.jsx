@@ -37,7 +37,7 @@ const Header = () => {
                 </div>
 
                 <div className='image-area'>
-                    <img src="image.png" alt="George Gichuru" />
+                    <img src="{image.png}" alt="George Gichuru" />
                 </div>
                 <a href="#!" className='scroll-down'>
                     <span>Scroll Down</span>
