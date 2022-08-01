@@ -49,7 +49,7 @@ const About = () => {
                     </p>
 
                     <p className='text'>
-                    Focused on delighting customers with innovative user-friendly designs
+                    Focused on delighting customers with innovative user-friendly designs.
                     </p>
 
                     <Button text="Let's Talk" position="left" />

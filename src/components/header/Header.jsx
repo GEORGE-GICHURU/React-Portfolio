@@ -37,7 +37,7 @@ const Header = () => {
                 </div>
 
                 <div className='image-area'>
-                    <img src="#!" alt="George Gichuru" />
+                    <img src="letter-g-blue-fire-flames-black-isolated-background-realistic-fire-effect-sparks-part-alphabet-set-letter-g-blue-fire-157763002.jpg" alt="George Gichuru" />
                 </div>
                 <a href="#!" className='scroll-down'>
                     <span>Scroll Down</span>
